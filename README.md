@@ -37,14 +37,6 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimgngr&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgngr&layout=compact&theme=tokyonight)
-
----
-
 ## 📂 Öne Çıkan Projeler
 
 🔹 **Araç Plaka Tanıma Sistemi**  
