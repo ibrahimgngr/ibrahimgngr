@@ -37,9 +37,9 @@
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimgngr&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgngr&layout=compact&theme=tokyonight)
 
 ---
 
@@ -58,9 +58,9 @@ Hayvanat bahçesi için ERD diyagramı ve veritabanı tasarımı.
 
 ## 📫 Bana Ulaş
 
-- 📧 Email: email@example.com
-- 💼 LinkedIn: https://linkedin.com/in/linkedin
-- 🌐 GitHub: https://github.com/KULLANICI_ADIN
+- 📧 Email: gungoribrahim567@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrahim-güngör-466441297/
+- 🌐 GitHub: https://github.com/ibrahimgngr
 
 ---
 
