@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Merhaba, ben İbrahim Güngör
 
-<!--
-**ibrahimgngr/ibrahimgngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Karabük Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
+💻 Yazılım geliştirme, makine öğrenmesi ve görüntü işleme alanlarına ilgi duyuyorum.  
+🚀 Yeni teknolojileri öğrenmeyi ve projeler geliştirmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Hakkımda
+
+- 🎓 Karabük Üniversitesi - Bilgisayar Mühendisliği
+- 🧠 İlgi Alanlarım: Makine Öğrenmesi, Görüntü İşleme, Yapay Zeka
+- 💡 Şu anda üzerinde çalıştığım projeler:
+  - Araç Plaka Tanıma Sistemi
+  - CNN ile Rakam Tanıma
+- 🎯 Hedefim: Yapay zeka ve görüntü işleme alanında uzmanlaşmak
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+### Diller
+- C
+- Python
+- Java
+- SQL
+- JavaScript
+
+### Teknolojiler / Frameworkler
+- OpenCV
+- TensorFlow
+- Scikit-Learn
+- MySQL
+- Git
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Öne Çıkan Projeler
+
+🔹 **Araç Plaka Tanıma Sistemi**  
+Python, OpenCV ve makine öğrenmesi kullanarak plaka tespiti ve araç sahibi bilgilerini görüntüleyen sistem.
+
+🔹 **CNN ile Rakam Tanıma**  
+Kamera üzerinden alınan görüntülerden el yazısı rakam tanıma.
+
+🔹 **Zoo Database Project**  
+Hayvanat bahçesi için ERD diyagramı ve veritabanı tasarımı.
+
+---
+
+## 📫 Bana Ulaş
+
+- 📧 Email: email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/linkedin
+- 🌐 GitHub: https://github.com/KULLANICI_ADIN
+
+---
+
+⭐ Profilimi ziyaret ettiğiniz için teşekkürler!
