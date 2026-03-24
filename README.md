@@ -12,6 +12,8 @@
 - 🧠 İlgi Alanlarım: Makine Öğrenmesi, Görüntü İşleme, Yapay Zeka
 - 💡 Şu anda üzerinde çalıştığım projeler:
   - Araç Plaka Tanıma Sistemi
+  - İnsan Tespit Algoritması
+  - Tabela Tespit Algoritması
   - CNN ile Rakam Tanıma
 - 🎯 Hedefim: Yapay zeka ve görüntü işleme alanında uzmanlaşmak
 
