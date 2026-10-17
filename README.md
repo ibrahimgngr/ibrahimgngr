@@ -55,7 +55,7 @@ Hayvanat bahçesi için ERD diyagramı ve veritabanı tasarımı.
 ## 📫 Bana Ulaş
 
 - 📧 Email: gungoribrahim567@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ibrahim-güngör-466441297/
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrahimgngr/
 - 🌐 GitHub: https://github.com/ibrahimgngr
 
 ---
